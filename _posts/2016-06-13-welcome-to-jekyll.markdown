@@ -6,9 +6,9 @@ categories: jekyll update
 img: image-1.png
 categories: [one, two]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+JustMap is an ongoing collaborative map based on public workshops organised at neighbourhood festivals or specific community events.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Its goal is to highlight communities assets and projects, connect actors campaigning for a fairer London and identify strategic cooperations.
 
 Jekyll also offers powerful support for code snippets:
 
