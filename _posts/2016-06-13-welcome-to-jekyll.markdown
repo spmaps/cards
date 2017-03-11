@@ -10,18 +10,18 @@ JustMap is an ongoing collaborative map based on public workshops organised at n
 
 Its goal is to highlight communities assets and projects, connect actors campaigning for a fairer London and identify strategic cooperations.
 
-Jekyll also offers powerful support for code snippets:
+#Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
+#{% highlight ruby %}
+#def print_hi(name)
+  #puts "Hi, #{name}"
 end
-print_hi('Tom')
+#print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+#{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+#Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+#[jekyll-docs]: http://jekyllrb.com/docs/home
+#[jekyll-gh]:   https://github.com/jekyll/jekyll
+#[jekyll-talk]: https://talk.jekyllrb.com/
