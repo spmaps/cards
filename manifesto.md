@@ -3,7 +3,7 @@ layout: page
 title: Manifesto
 permalink: /manifesto/
 ---
-![webjeda logo]({{site.baseurl}}/images/webjeda.svg)
+![RoS](https://i0.wp.com/conwayhall.org.uk/wp-content/uploads/2016/05/relaimourspaces-ubele.jpeg)
 
 <div class="mt50"></div>
 
