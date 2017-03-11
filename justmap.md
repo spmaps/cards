@@ -3,7 +3,7 @@ layout: page
 title: justMap
 permalink: /justmap/
 ---
-![RoS](https://i0.wp.com/conwayhall.org.uk/wp-content/uploads/2016/05/relaimourspaces-ubele.jpeg)
+![RoS](JustMap_shot.png)
 
 <div class="mt50"></div>
 
