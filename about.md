@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![webjeda logo]({{site.baseurl}}/images/webjeda.svg)
+![RoS logo](
 
 <div class="mt50"></div>
 
